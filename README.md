@@ -79,6 +79,7 @@ Cada imagem é representada como uma matriz bidimensional de inteiros (int[][]),
 
 O código do projeto e da implementação das funções pode ser visto no 'main.java'
 
+
 ## Melhorias futuras
 
 Implementar um sistema de undo com imagemAnterior
