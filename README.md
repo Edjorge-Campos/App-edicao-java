@@ -2,7 +2,7 @@
 Editor de imagens em tons de cinzento desenvolvido em Java, o meu primeiro projeto de programação, realizado na cadeira de Introdução à Programação do ISCTE.
 Este foi o meu primeiro projeto de programação alguma vez. É também uma das minhas primeiras vezes a escrever código, e o objetivo era implementar um conjunto de filtros e operações de manipulação de imagem do zero, trabalhando diretamente com matrizes de pixéis.
 
-Demonstração
+# Demonstração
 
 
 
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/f66f576e-9f9e-4edc-80ea-415f7b572238
 
 
 
-Funcionalidades
+# Funcionalidades
 
 Filtros — aplicados a cada pixel individualmente:
 
@@ -22,7 +22,7 @@ Filtros — aplicados a cada pixel individualmente:
 -Grão
 
 
-Efeitos — aplicados à imagem inteira:
+# Efeitos — aplicados à imagem inteira:
 
 -Vignette
 -Margem
@@ -33,7 +33,7 @@ Efeitos — aplicados à imagem inteira:
 -Retro (combinação de contraste, vignette e desfoque)
 
 
-Operações — transformações que alteram a estrutura da imagem:
+# Operações — transformações que alteram a estrutura da imagem:
 
 -Cortar para quadrado
 -Escurecer área selecionada
@@ -44,18 +44,18 @@ Operações — transformações que alteram a estrutura da imagem:
 -Posterizar
 -Copiar / Cortar / Colar seleção
 
-Como funciona
+# Como funciona
 
 Cada imagem é representada como uma matriz bidimensional de inteiros (int[][]), onde cada valor corresponde ao tom de cinzento de um pixel, entre 0 (preto) e 255 (branco). Todas as operações manipulam esta matriz diretamente.
 
 
-Tecnologias
+# Tecnologias
 
 Java
 Framework Greyditor (fornecida pelo ISCTE)
 
 
-Melhorias futuras
+# Melhorias futuras
 
 Implementar um sistema de undo com imagemAnterior
 Adicionar suporte a imagens coloridas (RGB)
@@ -63,7 +63,7 @@ Permitir guardar e carregar imagens diretamente pela interface
 
 
 
-Contexto académico
+# Contexto académico
 
 Projeto desenvolvido na cadeira de Introdução à Programação do 1º ano de Engenharia Informática no ISCTE — Instituto Universitário de Lisboa.
 
