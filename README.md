@@ -75,6 +75,10 @@ Cada imagem é representada como uma matriz bidimensional de inteiros (int[][]),
 - Framework Greyditor (fornecida pelo ISCTE)
 
 
+## Código
+
+O código do projeto e da implementação das funções pode ser visto no 'main.java'
+
 ## Melhorias futuras
 
 Implementar um sistema de undo com imagemAnterior
